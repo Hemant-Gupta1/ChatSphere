@@ -1,19 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@700&display=swap');
-.logo{
-    display: block;
-    margin: auto;
+@import url("https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@700&display=swap");
+.logo {
+  padding-top: 60px;
+  display: block;
+  margin: auto;
 }
 body {
   height: 100vh;
-  background-color: rgb(
-    158,
-    160,
-    180
-  ); /* For browsers that do not support gradients */
+  background-color: rgb(216, 36, 141); /* For browsers that do not support gradients */
   background-image: radial-gradient(
-    rgb(214, 186, 214),
-    rgb(158, 160, 180),
-    rgb(151, 148, 169)
+    rgb(181, 21, 181),
+    rgb(17, 24, 103),
+    rgb(84, 183, 30)
   );
   padding: 0px;
   margin: 0px;
@@ -26,17 +23,17 @@ body {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #f1f1f1; 
+  background: #f1f1f1;
 }
- 
+
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: gray; 
+  background: gray;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #555; 
+  background: #555;
 }
 
 h1 {
@@ -49,7 +46,7 @@ h1 {
 .container {
   width: 80%;
   margin: auto;
-  height: 40vh;
+  height: 55vh;
   padding: 33px;
   overflow-y: auto;
   margin-bottom: 23px;
