@@ -8,9 +8,9 @@ body {
   height: 100vh;
   background-color: rgb(216, 36, 141); /* For browsers that do not support gradients */
   background-image: radial-gradient(
-    rgb(181, 21, 181),
-    rgb(17, 24, 103),
-    rgb(84, 183, 30)
+    rgb(181, 224, 9),
+    rgb(225, 144, 14),
+    rgb(241, 11, 11)
   );
   padding: 0px;
   margin: 0px;
