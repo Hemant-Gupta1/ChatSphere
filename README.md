@@ -7,5 +7,6 @@ https://github.com/Hemant-Gupta1/ChatSphere
 Developed a real-time chat application using socket.io, enabling seamless communication between multiple users.
 
 ## Instruction to run
-cd nodeServer
-nodemon index.js
+1. cd nodeServer
+2. nodemon index.js 
+
