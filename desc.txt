@@ -1,0 +1,3 @@
+Developed ChatSphere, a real-time chat application using Node.js and Socket.IO, enabling instant messaging and multi-user support with seamless communication.
+Designed a user-friendly interface for cross-platform compatibility, ensuring accessibility across desktop and mobile devices.
+Optimized real-time data exchange with efficient state management, enhancing overall performance and user experience.
